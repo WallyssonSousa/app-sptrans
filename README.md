@@ -46,4 +46,4 @@ Este é um aplicativo Android simples que consome a API pública da SPTrans (Olh
 
 Abaixo uma imagem da tela do app:
 
-
+![Captura de tela](https://github.com/user-attachments/assets/98a78f31-053f-4755-93ed-ca1223f96914)
